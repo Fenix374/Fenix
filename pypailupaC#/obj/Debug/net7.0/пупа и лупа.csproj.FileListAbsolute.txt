@@ -1,0 +1,14 @@
+C:\Users\semen\source\repos\пупа и лупа\пупа и лупа\obj\Debug\net7.0\пупа и лупа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semen\source\repos\пупа и лупа\пупа и лупа\obj\Debug\net7.0\пупа и лупа.AssemblyInfoInputs.cache
+C:\Users\semen\source\repos\пупа и лупа\пупа и лупа\obj\Debug\net7.0\пупа и лупа.AssemblyInfo.cs
+C:\Users\semen\source\repos\пупа и лупа\пупа и лупа\obj\Debug\net7.0\пупа и лупа.csproj.CoreCompileInputs.cache
+C:\Users\semen\source\repos\пупа и лупа\пупа и лупа\bin\Debug\net7.0\пупа и лупа.exe
+C:\Users\semen\source\repos\пупа и лупа\пупа и лупа\bin\Debug\net7.0\пупа и лупа.deps.json
+C:\Users\semen\source\repos\пупа и лупа\пупа и лупа\bin\Debug\net7.0\пупа и лупа.runtimeconfig.json
+C:\Users\semen\source\repos\пупа и лупа\пупа и лупа\bin\Debug\net7.0\пупа и лупа.dll
+C:\Users\semen\source\repos\пупа и лупа\пупа и лупа\bin\Debug\net7.0\пупа и лупа.pdb
+C:\Users\semen\source\repos\пупа и лупа\пупа и лупа\obj\Debug\net7.0\пупа и лупа.dll
+C:\Users\semen\source\repos\пупа и лупа\пупа и лупа\obj\Debug\net7.0\refint\пупа и лупа.dll
+C:\Users\semen\source\repos\пупа и лупа\пупа и лупа\obj\Debug\net7.0\пупа и лупа.pdb
+C:\Users\semen\source\repos\пупа и лупа\пупа и лупа\obj\Debug\net7.0\пупа и лупа.genruntimeconfig.cache
+C:\Users\semen\source\repos\пупа и лупа\пупа и лупа\obj\Debug\net7.0\ref\пупа и лупа.dll
